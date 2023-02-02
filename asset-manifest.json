@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/2023website/static/css/main.41e2abd1.css",
+    "main.js": "/2023website/static/js/main.368a8018.js",
+    "static/js/787.e403dcb9.chunk.js": "/2023website/static/js/787.e403dcb9.chunk.js",
+    "static/media/realestate.jpg": "/2023website/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/2023website/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/2023website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/2023website/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/2023website/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/2023website/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/2023website/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/2023website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/2023website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/2023website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/2023website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/2023website/index.html",
+    "main.41e2abd1.css.map": "/2023website/static/css/main.41e2abd1.css.map",
+    "main.368a8018.js.map": "/2023website/static/js/main.368a8018.js.map",
+    "787.e403dcb9.chunk.js.map": "/2023website/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e2abd1.css",
+    "static/js/main.368a8018.js"
+  ]
+}
